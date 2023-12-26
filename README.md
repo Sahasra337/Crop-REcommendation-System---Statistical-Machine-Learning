@@ -1,1 +1,1 @@
-# Crop-REcommendation-System---Statistical-Machine-Learning
+# Crop-Recommendation-System---Statistical-Machine-Learning
